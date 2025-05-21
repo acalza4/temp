@@ -1,3 +1,3 @@
-# Austin Calza's Website
+# My site
 
-This is a simple personal landing page hosted with GitHub Pages.
+Temp temp
